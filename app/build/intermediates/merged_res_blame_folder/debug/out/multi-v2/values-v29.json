@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/pushpak/My Spending/MySpending/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v29/values-v29.xml",
+            "map": [
+                {
+                    "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/values-v29/themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "18",
+                        "endColumns": "12",
+                        "endOffsets": "1167"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "18",
+                        "endColumns": "12",
+                        "endOffsets": "1149"
+                    }
+                }
+            ]
+        }
+    ]
+}

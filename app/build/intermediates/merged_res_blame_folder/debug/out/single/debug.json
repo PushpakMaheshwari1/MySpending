@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/merged_res/debug/menu_bottom_navigation_menu.xml.flat",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/menu/bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/merged_res/debug/layout_item_spending.xml.flat",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/layout/item_spending.xml"
+    },
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/merged_res/debug/layout_view_spending_rv.xml.flat",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/layout/view_spending_rv.xml"
+    },
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/merged_res/debug/font_poppins.ttf.flat",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/font/poppins.ttf"
+    },
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/merged_res/debug/drawable_ic_add.xml.flat",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/drawable/ic_add.xml"
+    },
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/merged_res/debug/font_poppins_bold.ttf.flat",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/font/poppins_bold.ttf"
+    },
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_background.webp.flat",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/mipmap-xxhdpi/ic_launcher_background.webp"
+    },
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_background.webp.flat",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/mipmap-xhdpi/ic_launcher_background.webp"
+    },
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/merged_res/debug/layout_view_empty_layout.xml.flat",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/layout/view_empty_layout.xml"
+    },
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/merged_res/debug/layout_fragment_add_spending_bottom_sheet.xml.flat",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/layout/fragment_add_spending_bottom_sheet.xml"
+    },
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/merged_res/debug/drawable_ic_empty_data_ghost.xml.flat",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/drawable/ic_empty_data_ghost.xml"
+    },
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/merged_res/debug/font_poppins_medium.ttf.flat",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/font/poppins_medium.ttf"
+    },
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_background.webp.flat",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/mipmap-mdpi/ic_launcher_background.webp"
+    },
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/merged_res/debug/font_poppins_semi_bold.ttf.flat",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/font/poppins_semi_bold.ttf"
+    },
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_background.webp.flat",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/mipmap-xxxhdpi/ic_launcher_background.webp"
+    },
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_background.webp.flat",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/mipmap-hdpi/ic_launcher_background.webp"
+    },
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/merged_res/debug/navigation_main_navigation.xml.flat",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/navigation/main_navigation.xml"
+    },
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/merged_res/debug/layout_fragment_home.xml.flat",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/layout/fragment_home.xml"
+    }
+]

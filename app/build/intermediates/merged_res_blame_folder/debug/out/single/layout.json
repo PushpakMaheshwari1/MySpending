@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home.xml",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_add_spending_bottom_sheet.xml",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/layout/fragment_add_spending_bottom_sheet.xml"
+    },
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_spending.xml",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/layout/item_spending.xml"
+    },
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/view_spending_rv.xml",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/layout/view_spending_rv.xml"
+    },
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/pushpak/My Spending/MySpending/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/view_empty_layout.xml",
+        "source": "/home/pushpak/My Spending/MySpending/app/src/main/res/layout/view_empty_layout.xml"
+    }
+]
